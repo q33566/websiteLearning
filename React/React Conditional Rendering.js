@@ -1,0 +1,1 @@
+//if statement, logical && operator, ternary operator
